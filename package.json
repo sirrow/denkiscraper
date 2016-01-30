@@ -1,0 +1,8 @@
+{
+  "name": "denkiscraper",
+  "version": "0.0.1",
+  "dependencies" : {
+    "selenium-webdriver": "",
+    "minimist"            : ""
+  }
+}
